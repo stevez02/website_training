@@ -65,3 +65,79 @@ usage: git add [<options>] [--] <pathspec>...
 
 ]0;/home/wz8ry/git/website_trainingbash-4.4$git add -all[K[K[KA
 ]0;/home/wz8ry/git/website_trainingbash-4.4$git add -A
+]0;/home/wz8ry/git/website_trainingbash-4.4$git commit -m "b[Kfirst build:[K"
+[main 0eebda4] first build
+ 67 files changed, 22329 insertions(+), 3 deletions(-)
+ create mode 100644 docs/about.html
+ create mode 100644 docs/index.html
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/darkly.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/flatly.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/journal.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/lumen.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/paper.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/readable.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/simplex.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/united.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/css/yeti.min.css
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/js/bootstrap.js
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/js/npm.js
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+ create mode 100644 docs/site_libs/bootstrap-3.3.5/shim/respond.min.js
+ create mode 100644 docs/site_libs/highlightjs-9.12.0/default.css
+ create mode 100644 docs/site_libs/highlightjs-9.12.0/highlight.js
+ create mode 100644 docs/site_libs/highlightjs-9.12.0/textmate.css
+ create mode 100644 docs/site_libs/jquery-3.6.0/jquery-3.6.0.js
+ create mode 100644 docs/site_libs/jquery-3.6.0/jquery-3.6.0.min.js
+ create mode 100644 docs/site_libs/jquery-3.6.0/jquery-3.6.0.min.map
+ create mode 100644 docs/site_libs/navigation-1.1/codefolding-lua.css
+ create mode 100644 docs/site_libs/navigation-1.1/codefolding.js
+ create mode 100644 docs/site_libs/navigation-1.1/sourceembed.js
+ create mode 100644 docs/site_libs/navigation-1.1/tabsets.js
+]0;/home/wz8ry/git/website_trainingbash-4.4$git push
+Counting objects: 86, done.
+Delta compression using up to 40 threads.
+Compressing objects:   1% (1/86)   Compressing objects:   2% (2/86)   Compressing objects:   3% (3/86)   Compressing objects:   4% (4/86)   Compressing objects:   5% (5/86)   Compressing objects:   6% (6/86)   Compressing objects:   8% (7/86)   Compressing objects:   9% (8/86)   Compressing objects:  10% (9/86)   Compressing objects:  11% (10/86)   Compressing objects:  12% (11/86)   Compressing objects:  13% (12/86)   Compressing objects:  15% (13/86)   Compressing objects:  16% (14/86)   Compressing objects:  17% (15/86)   Compressing objects:  18% (16/86)   Compressing objects:  19% (17/86)   Compressing objects:  20% (18/86)   Compressing objects:  22% (19/86)   Compressing objects:  23% (20/86)   Compressing objects:  24% (21/86)   Compressing objects:  25% (22/86)   Compressing objects:  26% (23/86)   Compressing objects:  27% (24/86)   Compressing objects:  29% (25/86)   Compressing objects:  30% (26/86)   Compressing objects:  31% (27/86)   Compressing objects:  32% (28/86)   Compressing objects:  33% (29/86)   Compressing objects:  34% (30/86)   Compressing objects:  36% (31/86)   Compressing objects:  37% (32/86)   Compressing objects:  38% (33/86)   Compressing objects:  39% (34/86)   Compressing objects:  40% (35/86)   Compressing objects:  41% (36/86)   Compressing objects:  43% (37/86)   Compressing objects:  44% (38/86)   Compressing objects:  45% (39/86)   Compressing objects:  46% (40/86)   Compressing objects:  47% (41/86)   Compressing objects:  48% (42/86)   Compressing objects:  50% (43/86)   Compressing objects:  51% (44/86)   Compressing objects:  52% (45/86)   Compressing objects:  53% (46/86)   Compressing objects:  54% (47/86)   Compressing objects:  55% (48/86)   Compressing objects:  56% (49/86)   Compressing objects:  58% (50/86)   Compressing objects:  59% (51/86)   Compressing objects:  60% (52/86)   Compressing objects:  61% (53/86)   Compressing objects:  62% (54/86)   Compressing objects:  63% (55/86)   Compressing objects:  65% (56/86)   Compressing objects:  66% (57/86)   Compressing objects:  67% (58/86)   Compressing objects:  68% (59/86)   Compressing objects:  69% (60/86)   Compressing objects:  70% (61/86)   Compressing objects:  72% (62/86)   Compressing objects:  73% (63/86)   Compressing objects:  74% (64/86)   Compressing objects:  75% (65/86)   Compressing objects:  76% (66/86)   Compressing objects:  77% (67/86)   Compressing objects:  79% (68/86)   Compressing objects:  80% (69/86)   Compressing objects:  81% (70/86)   Compressing objects:  82% (71/86)   Compressing objects:  83% (72/86)   Compressing objects:  84% (73/86)   Compressing objects:  86% (74/86)   Compressing objects:  87% (75/86)   Compressing objects:  88% (76/86)   Compressing objects:  89% (77/86)   Compressing objects:  90% (78/86)   Compressing objects:  91% (79/86)   Compressing objects:  93% (80/86)   Compressing objects:  94% (81/86)   Compressing objects:  95% (82/86)   Compressing objects:  96% (83/86)   Compressing objects:  97% (84/86)   Compressing objects:  98% (85/86)   Compressing objects: 100% (86/86)   Compressing objects: 100% (86/86), done.
+Writing objects:   1% (1/86)   Writing objects:   2% (2/86)   Writing objects:   3% (3/86)   Writing objects:   4% (4/86)   Writing objects:   5% (5/86)   Writing objects:   6% (6/86)   Writing objects:   8% (7/86)   Writing objects:   9% (8/86)   Writing objects:  10% (9/86)   Writing objects:  11% (10/86)   Writing objects:  12% (11/86)   Writing objects:  13% (12/86)   Writing objects:  15% (13/86)   Writing objects:  16% (14/86)   Writing objects:  17% (15/86)   Writing objects:  18% (16/86)   Writing objects:  19% (17/86)   Writing objects:  20% (18/86)   Writing objects:  22% (19/86)   Writing objects:  24% (21/86)   Writing objects:  29% (25/86)   Writing objects:  30% (26/86)   Writing objects:  31% (27/86)   Writing objects:  32% (28/86)   Writing objects:  33% (29/86)   Writing objects:  34% (30/86)   Writing objects:  36% (31/86)   Writing objects:  37% (32/86)   Writing objects:  38% (33/86)   Writing objects:  39% (34/86)   Writing objects:  40% (35/86)   Writing objects:  41% (36/86)   Writing objects:  43% (37/86)   Writing objects:  44% (38/86)   Writing objects:  45% (39/86)   Writing objects:  46% (40/86)   Writing objects:  47% (41/86)   Writing objects:  48% (42/86)   Writing objects:  50% (43/86)   Writing objects:  51% (44/86)   Writing objects:  52% (45/86)   Writing objects:  53% (46/86)   Writing objects:  54% (47/86)   Writing objects:  55% (48/86)   Writing objects:  56% (49/86)   Writing objects:  58% (50/86)   Writing objects:  59% (51/86)   Writing objects:  60% (52/86)   Writing objects:  61% (53/86)   Writing objects:  62% (54/86)   Writing objects:  63% (55/86)   Writing objects:  65% (56/86)   Writing objects:  66% (57/86)   Writing objects:  67% (58/86)   Writing objects:  68% (59/86)   Writing objects:  69% (60/86)   Writing objects:  70% (61/86)   Writing objects:  72% (62/86)   Writing objects:  73% (63/86)   Writing objects:  74% (64/86)   Writing objects:  75% (65/86)   Writing objects:  76% (66/86)   Writing objects:  77% (67/86)   Writing objects:  79% (68/86)   Writing objects:  80% (69/86)   Writing objects:  81% (70/86)   Writing objects:  82% (71/86)   Writing objects:  83% (72/86)   Writing objects:  84% (73/86)   Writing objects:  86% (74/86)   Writing objects:  87% (75/86)   Writing objects:  88% (76/86)   Writing objects:  89% (77/86)   Writing objects:  90% (78/86)   Writing objects:  91% (79/86)   Writing objects:  93% (80/86)   Writing objects:  94% (81/86)   Writing objects:  95% (82/86)   Writing objects:  96% (83/86)   Writing objects:  97% (84/86)   Writing objects:  98% (85/86)   Writing objects: 100% (86/86)   Writing objects: 100% (86/86), 1.02 MiB | 6.36 MiB/s, done.
+Total 86 (delta 20), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/20)[Kremote: Resolving deltas:   5% (1/20)[Kremote: Resolving deltas:  10% (2/20)[Kremote: Resolving deltas:  15% (3/20)[Kremote: Resolving deltas:  20% (4/20)[Kremote: Resolving deltas:  25% (5/20)[Kremote: Resolving deltas:  30% (6/20)[Kremote: Resolving deltas:  35% (7/20)[Kremote: Resolving deltas:  40% (8/20)[Kremote: Resolving deltas:  45% (9/20)[Kremote: Resolving deltas:  50% (10/20)[Kremote: Resolving deltas:  55% (11/20)[Kremote: Resolving deltas:  60% (12/20)[Kremote: Resolving deltas:  65% (13/20)[Kremote: Resolving deltas:  70% (14/20)[Kremote: Resolving deltas:  75% (15/20)[Kremote: Resolving deltas:  80% (16/20)[Kremote: Resolving deltas:  85% (17/20)[Kremote: Resolving deltas:  90% (18/20)[Kremote: Resolving deltas:  95% (19/20)[Kremote: Resolving deltas: 100% (20/20)[Kremote: Resolving deltas: 100% (20/20), completed with 4 local objects.[K
+To https://github.com/stevez02/website_training.git
+   23bdeab..0eebda4  main -> main
+]0;/home/wz8ry/git/website_trainingbash-4.4$gita[K add .[K-A
