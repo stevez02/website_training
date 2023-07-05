@@ -141,3 +141,142 @@ remote: Resolving deltas:   0% (0/20)[Kremote: Resolving deltas:   5% (1/20)[
 To https://github.com/stevez02/website_training.git
    23bdeab..0eebda4  main -> main
 ]0;/home/wz8ry/git/website_trainingbash-4.4$gita[K add .[K-A
+]0;/home/wz8ry/git/website_trainingbash-4.4$git commit -m "fix build options"
+[main e3d7669] fix build options
+ 127 files changed, 44597 insertions(+), 1 deletion(-)
+ create mode 100644 _site/about.html
+ create mode 100644 _site/docs/about.html
+ create mode 100644 _site/docs/index.html
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/darkly.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/flatly.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/journal.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/lumen.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/paper.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/readable.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/simplex.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/united.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/css/yeti.min.css
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/js/bootstrap.js
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/js/npm.js
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+ create mode 100644 _site/docs/site_libs/bootstrap-3.3.5/shim/respond.min.js
+ create mode 100644 _site/docs/site_libs/highlightjs-9.12.0/default.css
+ create mode 100644 _site/docs/site_libs/highlightjs-9.12.0/highlight.js
+ create mode 100644 _site/docs/site_libs/highlightjs-9.12.0/textmate.css
+ create mode 100644 _site/docs/site_libs/jquery-3.6.0/jquery-3.6.0.js
+ create mode 100644 _site/docs/site_libs/jquery-3.6.0/jquery-3.6.0.min.js
+ create mode 100644 _site/docs/site_libs/jquery-3.6.0/jquery-3.6.0.min.map
+ create mode 100644 _site/docs/site_libs/navigation-1.1/codefolding-lua.css
+ create mode 100644 _site/docs/site_libs/navigation-1.1/codefolding.js
+ create mode 100644 _site/docs/site_libs/navigation-1.1/sourceembed.js
+ create mode 100644 _site/docs/site_libs/navigation-1.1/tabsets.js
+ create mode 100644 _site/index.html
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/darkly.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/flatly.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/journal.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/lumen.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/paper.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/readable.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/simplex.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/united.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/yeti.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/npm.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/shim/respond.min.js
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/default.css
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/highlight.js
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/textmate.css
+ create mode 100644 _site/site_libs/jquery-3.6.0/jquery-3.6.0.js
+ create mode 100644 _site/site_libs/jquery-3.6.0/jquery-3.6.0.min.js
+ create mode 100644 _site/site_libs/jquery-3.6.0/jquery-3.6.0.min.map
+ create mode 100644 _site/site_libs/navigation-1.1/codefolding-lua.css
+ create mode 100644 _site/site_libs/navigation-1.1/codefolding.js
+ create mode 100644 _site/site_libs/navigation-1.1/sourceembed.js
+ create mode 100644 _site/site_libs/navigation-1.1/tabsets.js
+]0;/home/wz8ry/git/website_trainingbash-4.4$git push
+Counting objects: 7, done.
+Delta compression using up to 40 threads.
+Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 3.86 KiB | 1.93 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/stevez02/website_training.git
+   0eebda4..e3d7669  main -> main
+]0;/home/wz8ry/git/website_trainingbash-4.4$git [K[K[K[Kgit pu[K[K[K[K[K[Kgt[Kit add -A
