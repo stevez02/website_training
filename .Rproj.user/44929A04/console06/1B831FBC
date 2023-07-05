@@ -3,3 +3,65 @@ Initialized empty Git repository in /home/wz8ry/git/website_training/.git/
 ]0;/home/wz8ry/git/website_trainingbash-4.4$git add REaD[K[KADME.md
 fatal: pathspec 'README.md' did not match any files
 ]0;/home/wz8ry/git/website_trainingbash-4.4$git add README.md[K[K[K[K[K[K[K[K[K.
+]0;/home/wz8ry/git/website_trainingbash-4.4$git commit -m "first commit"
+[master (root-commit) 23bdeab] first commit
+ 20 files changed, 236 insertions(+)
+ create mode 100644 .Rproj.user/44929A04/console06/1B831FBC
+ create mode 100644 .Rproj.user/44929A04/console06/1B831FBC.env
+ create mode 100644 .Rproj.user/44929A04/console06/INDEX001
+ create mode 100644 .Rproj.user/44929A04/sources/prop/9ED4F0AD
+ create mode 100644 .Rproj.user/44929A04/sources/prop/A107FCE8
+ create mode 100644 .Rproj.user/44929A04/sources/prop/D03BA7BF
+ create mode 100644 .Rproj.user/44929A04/sources/prop/INDEX
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/69CDA5B3
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/69CDA5B3-contents
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/8BA65125
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/8BA65125-contents
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/9204DFE6
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/9204DFE6-contents
+ create mode 100644 .Rproj.user/44929A04/sources/s-3a9c7ec7/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 _site.yml
+ create mode 100644 about.Rmd
+ create mode 100644 index.Rmd
+ create mode 100644 website_training.Rproj
+]0;/home/wz8ry/git/website_trainingbash-4.4$git branch -M main
+]0;/home/wz8ry/git/website_trainingbash-4.4$git remote add origin ^V[Khttps://github.com/stevez02/website_training.git[C /github.com/stevez02/website_training.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/github.com/stevez02/website_training.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C github.com/stevez02/website_training.git@ github.com/stevez02/website_training.git[C[1P github.com/stevez02/website_training.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@ github.com/stevez02/website_training.git[1Pgithub.com/stevez02/website_training.gitg@github.com/stevez02/website_training.githp_fNO9sGbttABoYZIgWv7R2dGClqTxlX20SAoO@github.com/stevez02/website_trainning.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;/home/wz8ry/git/website_trainingbash-4.4$git push -u origin main
+Counting objects: 25, done.
+Delta compression using up to 40 threads.
+Compressing objects:   4% (1/21)   Compressing objects:   9% (2/21)   Compressing objects:  14% (3/21)   Compressing objects:  19% (4/21)   Compressing objects:  23% (5/21)   Compressing objects:  28% (6/21)   Compressing objects:  33% (7/21)   Compressing objects:  38% (8/21)   Compressing objects:  42% (9/21)   Compressing objects:  47% (10/21)   Compressing objects:  52% (11/21)   Compressing objects:  57% (12/21)   Compressing objects:  61% (13/21)   Compressing objects:  66% (14/21)   Compressing objects:  71% (15/21)   Compressing objects:  76% (16/21)   Compressing objects:  80% (17/21)   Compressing objects:  85% (18/21)   Compressing objects:  90% (19/21)   Compressing objects:  95% (20/21)   Compressing objects: 100% (21/21)   Compressing objects: 100% (21/21), done.
+Writing objects:   4% (1/25)   Writing objects:   8% (2/25)   Writing objects:  12% (3/25)   Writing objects:  16% (4/25)   Writing objects:  20% (5/25)   Writing objects:  24% (6/25)   Writing objects:  28% (7/25)   Writing objects:  32% (8/25)   Writing objects:  36% (9/25)   Writing objects:  40% (10/25)   Writing objects:  44% (11/25)   Writing objects:  48% (12/25)   Writing objects:  52% (13/25)   Writing objects:  60% (15/25)   Writing objects:  64% (16/25)   Writing objects:  68% (17/25)   Writing objects:  72% (18/25)   Writing objects:  76% (19/25)   Writing objects:  80% (20/25)   Writing objects:  84% (21/25)   Writing objects:  88% (22/25)   Writing objects:  92% (23/25)   Writing objects:  96% (24/25)   Writing objects: 100% (25/25)   Writing objects: 100% (25/25), 4.48 KiB | 573.00 KiB/s, done.
+Total 25 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/stevez02/website_training.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+]0;/home/wz8ry/git/website_trainingbash-4.4$[Kbash-4.4$[Kbash-4.4$git pull
+Already up to date.
+]0;/home/wz8ry/git/website_trainingbash-4.4$[Kbash-4.4$git add .
+]0;/home/wz8ry/git/website_trainingbash-4.4$git commit[K[K[K[K[K[K[K[K[K[Kgit add -a
+error: unknown switch `a'
+usage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --chmod <(+/-)x>      override the executable bit of the listed files
+
+]0;/home/wz8ry/git/website_trainingbash-4.4$git add -all[K[K[KA
+]0;/home/wz8ry/git/website_trainingbash-4.4$git add -A
