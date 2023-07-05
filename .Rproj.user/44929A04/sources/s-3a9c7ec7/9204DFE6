@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1732481516",
+    "hash" : "475798729",
     "id" : "9204DFE6",
-    "lastKnownWriteTime" : 1688583440,
-    "last_content_update" : 1688583440,
+    "lastKnownWriteTime" : 1688585207,
+    "last_content_update" : 1688585207170,
     "path" : "~/git/website_training/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
+        "cursorPosition" : "7,68",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
